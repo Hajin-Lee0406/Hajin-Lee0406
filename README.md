@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Hajin-Lee0406/Hajin-Lee0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="[url](https://blog.naver.com/glgkwls1)" > <h3>:👋: BLOG </h3> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hajin-Lee0406&layout=compact)](https://github.com/Hajin-Lee0406/github-readme-stats)
 
-<a href="[url](https://blog.naver.com/glgkwls1)" > <h3>:muscle: BLOG </h3> </a>
