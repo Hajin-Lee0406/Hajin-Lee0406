@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hajin-Lee0406&layout=compact)](https://github.com/Hajin-Lee0406/github-readme-stats)
+
+<a href="[url](https://blog.naver.com/glgkwls1)" > <h3>:muscle: Problem Solving </h3> </a>
