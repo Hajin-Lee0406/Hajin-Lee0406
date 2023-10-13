@@ -8,7 +8,6 @@
 
 
 ### 🛠 Skill 🛠 
----
 <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/KOTLIN-007396?style=flat-square&logo=kotlin&logoColor=white">
